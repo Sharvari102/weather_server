@@ -3,5 +3,6 @@ Cors
 Flask==1.1.2
 Flask-CORS==3.0.10
 requests==2.31
-Jinja2==2.11.3
-other-dependency==1.0.0
+Jinja2==3.0.1
+MarkupSafe==2.1.1
+
